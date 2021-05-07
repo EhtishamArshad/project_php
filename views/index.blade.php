@@ -71,7 +71,6 @@
             orderPerMonth.push(0)
         }
     }
-    console.log(orderPerMonth);
     let ctx = document.getElementById('monthlyChart').getContext('2d');
     let myChart = new Chart(ctx, {
         type: 'line',
