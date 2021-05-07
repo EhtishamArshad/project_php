@@ -1,4 +1,4 @@
-PHP SKILL TEST PROJECT
+<h2>PHP SKILL TEST PROJECT</h2>
 
 In order to run project locally, please follow the following steps:
 
